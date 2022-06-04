@@ -1,0 +1,74 @@
+
+.all-browsers {
+    margin: 0;
+    padding: 5px;
+    background-color: lightgray;
+  }
+  
+  .all-browsers > h1, .browser {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .browser {
+    background: white;
+  }
+  
+  .browser > h2, p {
+    margin: 4px;
+    font-size: 90%;
+  }
+
+  .text-red {
+    color:brown;
+}
+
+.text-rebeccapurple {
+    color:rebeccapurple;
+}
+
+.text-burlywood {
+    color:burlywood;
+}
+
+.text-lawngreen {
+    color:lawngreen;
+}
+
+.text-greenyellow {
+    color:greenyellow;
+}
+
+.text-blue {
+    color:blue;
+}
+
+.middle-position {
+    position: relative;
+    left: 590px;
+    top: 5px;
+}
+
+.middle-position-two {
+    position: relative;
+    left: 540px;
+    top: 5px;
+}
+
+.middle-position-three {
+    position: relative;
+    left: 30px;
+    top: 5px;
+}
+
+.middle-position-image {
+    position: relative;
+    left: 470px;
+    top: 5px;
+}
+
+.text-alignment {
+    text-align:center;
+    text-justify: inter-ideograph;
+    line-height: 1.6;
+  }
