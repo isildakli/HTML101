@@ -1,0 +1,73 @@
+
+
+.mp {
+    position: relative;
+    left: 590px;
+    top: 5px;
+}
+
+.mp-two {
+    position: relative;
+    padding: 5%;
+}
+
+.mp-three {
+    width: 95%;
+    float: left;
+    padding: 10%;
+    margin-left: 3%;
+}
+
+.mp-four {
+    position: relative;
+    left: 680px;
+    top: 5px;
+}
+
+.mp-five {
+    size: -1;
+}
+
+.box1 {
+    padding-left: 500px;
+}
+
+.box2 {
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+}
+
+/*--------*/
+.bgcolor-grey {
+    background-color: rgb(232, 236, 232);
+}
+
+.bgcolor-blue {
+    background-color: rgb(148, 195, 250);
+}
+
+.card {
+    width:"90%";
+    padding-left: 45%;
+    padding-top: 4%;
+}
+
+.card-two {
+    width:"90%";
+    padding-left: 49%;
+}
+
+.card-three {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.card-four {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.card-middle {
+    padding-left: 46%;
+}
